@@ -34,3 +34,4 @@ o	Physical Topology: The physical layout of the network's hardware.
 o	Logical Topology: The path that data takes through the network, which may differ from the physical layout.
 •	Network Design Principles: The guiding ideas for building a great network. Key principles include scalability (it can grow), reliability (it stays working), and security.
 This repository is a starting point. Feel free to explore and contribute as you learn. We're all here to make complex ideas simple and help each other out.
+
